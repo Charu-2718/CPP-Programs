@@ -4,6 +4,8 @@
         "*.rmd": "markdown",
         "ios": "cpp",
         "cmath": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "iomanip": "cpp",
+        "iostream": "cpp"
     }
 }
